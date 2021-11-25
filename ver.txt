@@ -1,1 +1,2 @@
 "added bone to main git" 
+int_bone test1
